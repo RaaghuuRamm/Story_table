@@ -1,0 +1,45 @@
+body{
+    background: url("./m.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: white;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+    color:black ;
+}
+
+
+h3{
+    color: greenyellow;
+    font-size: xx-large;
+}
+
+
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 20px;
+}
+
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 0 0 0 0;
+    padding: 10px;
+}
